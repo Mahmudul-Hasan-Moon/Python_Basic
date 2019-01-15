@@ -1,0 +1,11 @@
+
+
+print(5)
+
+print("The number is ",5)
+
+print("The sum is ",5+6)
+
+print("The square of 5 is ",5**2)  # ** sign can be used as power sign
+
+print("The 5 power 3 is ",5**3)
