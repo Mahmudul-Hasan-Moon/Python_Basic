@@ -1,0 +1,12 @@
+
+
+pen = 200
+name = "Mahmudul"
+age = 23
+nick = "Moon"
+
+print("I have",pen,"Pen in my hand") # print variable inside of a string
+
+print("My name is %s" %name)  # process of printing variables by its specification
+print("My age is %d" %age)
+print("My nick name is %s that is very short" %nick)
