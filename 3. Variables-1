@@ -1,0 +1,10 @@
+
+a = 5
+b = 6    # this is the declaration for one variable is one line
+
+x, y = (10, 15)
+m, n, p = (12.5, 13, .36)        # for declare multiple variable in one line
+
+print(a, b)
+print(x, y)
+print(m, n, p)
